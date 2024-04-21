@@ -1,0 +1,6 @@
+@MetallFactor_HostAddress = http://localhost:5047
+
+GET {{MetallFactor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
