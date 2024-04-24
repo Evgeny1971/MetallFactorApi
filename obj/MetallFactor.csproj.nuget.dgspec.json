@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/evgeny/Public/MetalFactor/MetallFactor/MetallFactor.csproj": {}
+    "/home/evgeny/Public/MetalFactor/MetallFactorApi/MetallFactor.csproj": {}
   },
   "projects": {
-    "/home/evgeny/Public/MetalFactor/MetallFactor/MetallFactor.csproj": {
+    "/home/evgeny/Public/MetalFactor/MetallFactorApi/MetallFactor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/evgeny/Public/MetalFactor/MetallFactor/MetallFactor.csproj",
+        "projectUniqueName": "/home/evgeny/Public/MetalFactor/MetallFactorApi/MetallFactor.csproj",
         "projectName": "MetallFactor",
-        "projectPath": "/home/evgeny/Public/MetalFactor/MetallFactor/MetallFactor.csproj",
+        "projectPath": "/home/evgeny/Public/MetalFactor/MetallFactorApi/MetallFactor.csproj",
         "packagesPath": "/home/evgeny/.nuget/packages/",
-        "outputPath": "/home/evgeny/Public/MetalFactor/MetallFactor/obj/",
+        "outputPath": "/home/evgeny/Public/MetalFactor/MetallFactorApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/evgeny/.nuget/NuGet/NuGet.Config"
