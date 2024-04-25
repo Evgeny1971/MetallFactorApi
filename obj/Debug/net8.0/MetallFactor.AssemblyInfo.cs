@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetallFactor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a4676512b7f53dec8a3592bdd9099587f4a2581")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebaa6b9c6195e03fde8316851a0c41dfadb845a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetallFactor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetallFactor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
